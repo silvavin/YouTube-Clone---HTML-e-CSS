@@ -20,4 +20,4 @@ Este projeto é uma **clonagem simples da interface do YouTube** usando apenas *
 
 
 
-## 📂 Estrutura de pastas
+
